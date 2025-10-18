@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The AI, Public Health, and Statistical Sciences (AIPHaS) Research Group, established in 2022, brings together expertise in artificial intelligence, statistical sciences, and public health to explore innovative solutions to real-world challenges. Our work focuses on how intelligent systems and statistical approaches can uncover new insights, enhance decision-making, and drive meaningful progress across diverse fields. AIPHaS is committed to advancing research, fostering collaboration, and promoting the responsible use of data and technology to create a smarter and healthier future.
   
   #- block: collection
   #  content:
