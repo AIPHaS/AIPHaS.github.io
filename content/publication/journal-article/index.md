@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Speech Emotion Recognition with Hybrid CNN- LSTM and Transformers Models: Evaluating the Hybrid Model Using Grad-CAM"
 authors:
 - admin
 - Robert Ford
@@ -10,7 +10,7 @@ date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-07-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,10 +18,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*International Journal of Research in Computing, 4(II), 56–66*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: <p style="text-align: justify;">
+    Emotional recognition and classification using artificial intelligence (AI) techniques play a crucial role in human-computer interaction (HCI). It enables the prediction of human emotions from audio signals with broad applications in psychology, medicine, education, entertainment, etc. This research focused on speech-emotion recognition (SER) by employing classification methods and transformer models using the Toronto Emotional Speech Set (TESS). Initially, acoustic features were extracted using different feature extraction techniques, including chroma, Mel-scaled spectrogram, contrast features, and Mel Frequency Cepstral Coefficients (MFCCs) from the audio dataset. Then, this study employed a Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), and a hybrid CNN-LSTM model to classify emotions. To compare the performance of these models, classical image transformer models such as ViT (Visual Image Transformer) and BEiT (Bidirectional Encoder Representation of Images) were employed on the Mel-spectograms derived from the same dataset. Evaluation metrics such as accuracy, precision, recall, and F1-score were calculated for each of these models to ensure a comprehensive performance comparison. According to the results, the hybrid model performed better than other models by achieving an accuracy of 99.01%, while the CNN, LSTM, ViT, and BEiT models demonstrated accuracies of 95.37%, 98.57%, 98%, and 98.3%, respectively. To interpret the output of this hybrid model and to provide visual explanations of its predictions, the Grad-CAM (Gradient-weighted Class Activation Mappings) was obtained. This technique reduced the black-box character of deep models, making them more reliable to use in clinical and other delicate contexts. In conclusion, the hybrid CNN-LSTM model showed strong performance in audio-based emotion classification. </p>
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
