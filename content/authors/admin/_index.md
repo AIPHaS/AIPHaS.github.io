@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nadeesha Herath Mudiyanselage
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Nadeesha
+last_name: Herath Mudiyanselage
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Volunteer Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Tampere University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Computing Sciences (Specialised in Statistical Data Analytics)
+      institution: Tampere University of Finland
+      year: 2025
+    - course: BSc in Statistics and Operations Research
+      institution: University of Peradeniya, Sri Lanka
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +41,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'nadeeshashyamikumari@gmail.com'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/nadeeshaherathmudiyanselage/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Nadeesha-Herath-Mudiyanselage?ev=hdr_xprf
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-4708-5561
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=0JaJkXQAAAAJ&view_op=list_works
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/NadeeshaHerathMudiyanselage
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
